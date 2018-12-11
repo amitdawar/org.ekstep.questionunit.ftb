@@ -122,7 +122,6 @@ org.ekstep.questionunitFTB.RendererPlugin = org.ekstep.contentrenderer.questionU
       "type": "INPUT",
       "values": telemetryAnsArr
     }); // eslint-disable-line no-undef
-    QSTelemetryLogger.logEvent(QSTelemetryLogger.EVENT_TYPES.ASSESSEND, result); // eslint-disable-line no-undef
   }
 });
 //# sourceURL=questionunitFtbRendererPlugin.js
